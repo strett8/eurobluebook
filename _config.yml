@@ -16,7 +16,7 @@
 title: Priručnik za cjevariju
 description: Osnove cjevarije i varenja
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://eurobluebooks.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://eurobluebooks.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"
