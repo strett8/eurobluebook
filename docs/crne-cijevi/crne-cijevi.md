@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Crne cijevi
-nav_order: 2
+nav_order: 3
 has_children: true
 permalink: docs/crne-cijevi
 ---
