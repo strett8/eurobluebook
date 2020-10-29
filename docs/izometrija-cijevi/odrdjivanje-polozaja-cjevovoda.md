@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Odrdjivanje polozaja cjevovoda
+title: Određivanje položaja cjevovoda
 parent: Izometrija cijevi
 ---
 
