@@ -110,7 +110,6 @@ title: Page not found
 nav_exclude: true
 search_exclude: true
 ---
-```
 
 
 ## Generate search index when used as a gem

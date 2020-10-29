@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Configuration
-nav_order: 8
+nav_order: 2
 ---
 
 # Configuration
@@ -68,7 +68,7 @@ search:
 # Aux links for the upper right navigation
 aux_links:
   "Just the Docs on GitHub":
-    - "//github.com/strett8/eurobluebook"
+    - "//github.com/pmarsceill/just-the-docs"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
