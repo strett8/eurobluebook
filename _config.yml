@@ -65,7 +65,7 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "Škola za buduće cjevare i zavarivače":
-    - "skola-za-cjevare-zavarivace"
+    - "/skola-za-cjevare-zavarivace"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
