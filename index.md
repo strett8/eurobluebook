@@ -7,7 +7,7 @@ permalink: /
 image: /assets/images/isometric.jpg
 ---
 
-![Cjevarija varenje](/upload/pipeline.webp)
+![Cjevarija varenje](/upload/pipelines.webp)
 
 # Priručnik za cjevariju
 {: .fs-9 }
@@ -23,6 +23,7 @@ Za cjevovode za koje ne postoji dokumentacija (izometrije i proračuni), potrebn
 
 ## Izrada dokumentacije postojećih cjevovoda
 Da bi se izradila dokumentacija postojećih cjevovoda, naravno tamo gdje ona ne postoji ili gdje postojeća dokumentacija nije pouzdana, najprije treba izmjeriti i identificirati sve dijelove cjevovodnog sustava. To uključuje ne samo promjere, debljine stjenke i duljine, već i mjesta oslonaca, ventile i sve ostale cjevovodne komponente. Općenito postoje samo tri metode dolaska do tih informacija.
+
 ### Mjerenja cjevovoda
 Prva je najstarija i vjerojatno i dan danas najkorištenija, a to je mjerenje cjevovoda uz pomoć običnog metra, laserskog metra, viska i raznih drugih priručnih sredstava. No, ta metoda može biti i opasna u slučaju potrebe za mjerenjem cjevovoda koji se nalaze na velikim visinama što zahtijeva penjanje po ljestvama i skelama. Međutim, ona je prije svega podložna greškama. Njezina točnost je vrlo upitna. Valja samo zamisliti činjenicu da većina cjevovoda nije ortogonalna, odnosno da oni imaju padove, da koljena nisu pod pravim kutom i dr. Kako takve cjevovode izmjeriti? Kako vjerovati onome što je izmjereno? Povrh svega toga, na osnovi onoga što je izmjereno potrebno je napraviti i dokumentaciju. Treba se složiti da je danas crtanje izometrija stvar daleke prošlosti ili bi barem trebalo biti. Dakle, na osnovi izmjera je potrebno napraviti trodimenzionalni računalni model iz kojega se zatim izrađuju izometrije. Cijeli taj postupak je i dug, ali i podložan greškama.
 
