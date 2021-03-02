@@ -7,7 +7,7 @@ permalink: /
 image: /assets/images/isometric.jpg
 ---
 
-![Cjevarija varenje](/upload/pipelines.webp)
+![Cjevarija varenje](/upload/pipeline.webp)
 
 # Priručnik za cjevariju
 {: .fs-9 }
