@@ -7,6 +7,8 @@ permalink: /
 image: /assets/images/isometric.jpg
 ---
 
+![Cjevarija varenje](/upload/pipeline.webp)
+
 # Priručnik za cjevariju
 {: .fs-9 }
 Zašto je potrebna dokumentacija za cjevovode koji su već niz godina u radu? Potrebna je za cjevovode koji su davno projektirani i instalirani, za cjevovode za koje ne postoji dokumentacija nužna za razvrstavanja prema razini opasnosti te ocjenu suglasnosti s Pravilniku o tlačnoj opremi (NN 58/2010) i Pravilniku o pregledima i ispitivanju opreme pod tlakom (NN 138/2008).
