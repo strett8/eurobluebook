@@ -19,7 +19,6 @@ Osnove cjevarije
 Za cjevovode za koje ne postoji dokumentacija (izometrije i proračuni), potrebno ju je napraviti od samog početka, kao da cjevovodi ne postoje. Opće je poznato koliko je sama izrada 'as-built' dokumentacije zahtjevan i greškama podložan postupak. U prošlosti su se, ali i danas, koristili metri i razna priručna sredstva da bi se došlo do izmjera geometrije cjevovoda. Prije nije bilo drugog izbora, no on danas postoji. Tako postoje dvije sofisticirane metode koje uključuju korištenje odgovarajuće opreme i računalnih aplikacija.
 
 ---
-![Cjevarija varenje](/upload/work.webp)
 
 ## Izrada dokumentacije postojećih cjevovoda
 Da bi se izradila dokumentacija postojećih cjevovoda, naravno tamo gdje ona ne postoji ili gdje postojeća dokumentacija nije pouzdana, najprije treba izmjeriti i identificirati sve dijelove cjevovodnog sustava. To uključuje ne samo promjere, debljine stjenke i duljine, već i mjesta oslonaca, ventile i sve ostale cjevovodne komponente. Općenito postoje samo tri metode dolaska do tih informacija.
