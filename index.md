@@ -43,16 +43,8 @@ email, or any other method with the owners of this repository before making a ch
 
 #### Thank you to the contributors of eurobluebooks.com!
 
-<ul class="list-style-none">
-{% for contributor in site.github.contributors %}
-  <li class="d-inline-block mr-1">
-     <a href="{{ contributor.html_url }}"><img src="{{ contributor.avatar_url }}" width="32" height="32" alt="{{ contributor.login }}"/></a>
-  </li>
-{% endfor %}
-</ul>
-
 ### Code of Conduct
 
 eurobluebooks.com is committed to fostering a welcoming community.
 
-[View our Code of Conduct](https://github.com/CODE_OF_CONDUCT.md) on our GitHub repository.
+[View our Code of Conduct](https://eurobluebooks.com) on our GitHub repository.
